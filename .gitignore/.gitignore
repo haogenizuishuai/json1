@@ -1,0 +1,23 @@
+{
+	"singerInformation":"singer Information",
+	"members" :
+[
+	{	
+		"name":"xu Song",
+		"age":32,
+		"speciality":"Antique music"
+	},
+	{
+		"name":"Alan Walker",
+		"age":21,
+		"speciality":"Electric sound"
+
+	},
+	{
+		"name":"Yanni Chrysomallis",
+		"age":63,
+		"speciality":"Absolute music"
+	}
+]
+
+}
